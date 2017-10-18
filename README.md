@@ -19,4 +19,4 @@ goldpigyan@gmail.com
 941090791@qq.com
 
 # Licences
-CC ![about CC]（https://en.wikipedia.org/wiki/Creative_Commons_license)
+CC ![about CC](https://en.wikipedia.org/wiki/Creative_Commons_license)
